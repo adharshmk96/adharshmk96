@@ -8,7 +8,7 @@
 ### I'm a Software Engineer :india:
 
 - :keyboard: I write code in Go, Typescript and Python.
-- :desktop_computer: I do web development on Next.js, Express, Django.
+- :desktop_computer: I work with web applications ( Full-Stack ).
 - :file_cabinet: I enjoy DevOps using Docker & Kubernetes.
 
 
