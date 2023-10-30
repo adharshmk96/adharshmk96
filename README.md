@@ -1,15 +1,28 @@
 ### Hi there 👋 :drum:
-<a href="https://www.linkedin.com/in/adharshmk96/">
-  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/adharshmk96/adharshmk96/main/icons/linkedin.svg" />
-</a>
 
-<br />
+---
 
 👋 Tech Lover, **software engineer** since 2019, Enjoys working with scalable and performant software solutions for the web.
 
 🏷️ Full-Stack Software, Platform Engineering, Architecture.
 
-# Skills
+---
+
+## **Contact**
+
+[🔗 https://www.adharsh.in](https://www.adharsh.in)
+
+[📧 adharsh@adharsh.in](mailto:adharsh@adharsh.in)
+
+[🐦 twitter.com/adharshmk96](http://twitter.com/adharshmk96)
+
+[🔗 linkedin.com/in/adharshmk96](https://www.linkedin.com/in/adharshmk96)
+
+[👾 github.com/adharshmk96](https://github.com/adharshmk96)
+
+---
+
+## Skills
 
 ### Programming
 
@@ -38,7 +51,7 @@
 
 ---
 
-# Education & Qualification
+## Education & Qualification
 
 ### Qualified NET for Assistant Professor
 
@@ -63,7 +76,7 @@ CGPA(6): 3.62 (Grade B)
 
 ---
 
-# Interests
+## Interests
 
 - **Drumming and Music**: Acted as a professional drummer and tutor between 2014 and 2019, showcasing versatility and dedication to the craft
 - **Health and Fitness**: Maintains a consistent workout routine, engaging in powerlifting to promote overall well‑being
