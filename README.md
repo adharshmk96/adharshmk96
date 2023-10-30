@@ -5,9 +5,9 @@
 
 <br />
 
-### I'm a Software Engineer :india:
+### I'm a Software Engineer :india: :thailand:
 
-- :keyboard: I write code in Go, Typescript and Python.
+- :keyboard: I write code.
 - :desktop_computer: I work with web applications ( Full-Stack ).
 - :file_cabinet: I enjoy DevOps using Docker & Kubernetes.
 
