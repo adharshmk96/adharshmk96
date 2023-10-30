@@ -51,31 +51,6 @@
 
 ---
 
-## Education & Qualification
-
-### Qualified NET for Assistant Professor
-
-**National Testing Agency**, *India - 2019*
-
-### Master’s (M.Sc.) in Computer Science
-
-**Calicut University Campus**, *Malappuram, India - ( 2017 - 2019 )*
-
-CGPA(10): 8.10 (Grade A+)
-
-### Bachelor’s (B.Sc.) in Computer Science
-
-**Yuvakshetra Institute of Management Studies**, *Palakkad, India - ( 2014 ‑ 2017 )*
-
-CGPA(6): 3.62 (Grade B)
-
-### High School
-
-- HSE in Computer Science with 86%, St Thomas Convent School, Palakkad — 2012 ‑ 2014
-- SSLC with 90%, St Thomas Convent School, Palakkad — 2011 ‑ 2012
-
----
-
 ## Interests
 
 - **Drumming and Music**: Acted as a professional drummer and tutor between 2014 and 2019, showcasing versatility and dedication to the craft
