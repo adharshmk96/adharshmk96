@@ -22,24 +22,30 @@
 
 ---
 
-## Skills
+# Skills
 
-### Programming
+### Programming Languages
 
-- Go ( golang )
-- Typescript & Javascript
+- Golang
+- C#
 - Python
-- Rust
+- Typescript
 - SQL
 
-### Web Development
+### Platform
 
-- STK ( self-made golang web framework )
-- Next.js
-- React.js ( webpack / vite )
-- Solid.js
-- Express.js
-- Django
+- Gitlab CI/CD
+- Docker
+- Kubernetes
+- ArgoCD
+- Skaffold
+
+### Web Technologies
+
+- ASP.NET Core
+- Go Fiber
+- NextJS
+- Webpack
 
 ### Other Tech Stacks
 
