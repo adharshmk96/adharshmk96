@@ -27,10 +27,10 @@
 ### Programming Languages
 
 - Golang
+- Kotlin
 - C#
 - Python
 - Typescript
-- SQL
 
 ### Platform
 
