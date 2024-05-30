@@ -40,21 +40,6 @@
 - ArgoCD
 - Skaffold
 
-### Web Technologies
-
-- ASP.NET Core
-- Go Fiber
-- NextJS
-- Webpack
-
-### Other Tech Stacks
-
-- Systemd and Nginx Reverse Proxy 
-- Docker & Kuberenetes Servers
-- Performance enhancement by smart Caching ( Redis ) and Database usage 
-- Messaging Queue backed Distributed Systems ( event driven systems )
-- Monolithic and Microservice Patterns
-
 ---
 
 ## Interests
